@@ -1,0 +1,56 @@
+body {
+//	height: 1200px;
+//	width: 800px;
+	}
+.mom {
+	margin: 5px;
+	height: 1200px;
+	width: 800px;
+	background-color: #303030;
+	border: 2px double white;
+	margin-left: auto;
+	margin-right: auto;
+	} 
+	
+.clan {
+	//border: 2px solid #3c7b96;
+	//background-color: #97cf5f;
+	position: absolute;
+	left: 92px;
+	top: 15px;
+	}
+	
+	.pat {
+	//border: 2px solid #3c7b96;
+	//background-color: #97cf5f;
+	position: absolute;
+	left: 364px;
+	top: 15px;
+//	margin-left: auto;
+//	margin-right: auto;
+	}
+	
+.kd {
+	//border: 2px solid #3c7b96;
+	//background-color: #97cf5f;
+	position: absolute;
+	left: 635px;
+	top: 15px;
+//	margin-left: auto;
+//	margin-bottom: auto;
+	}
+	
+	
+.clan , .kd , .pat {
+	font-family: serif;
+	font-weight: light;
+	width: 240px;
+	color: #E0E0E0;
+	border: 2px solid white;
+//	background-color: #363636;
+	line-height: 25px;
+	letter-spacing: 1px;
+	word-spacing: 1px;
+	padding: 3px;
+	padding-left: 5px;
+	}
